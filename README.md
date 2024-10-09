@@ -1,4 +1,4 @@
-# Healthcare-Data-Pipleine
+# Healthcare-DataPipleine
 
 This is a Health and Genomics Data Pipeline that gives out personalized healthcare recommendations based on data sourced from the interent. I primarily used AWS Services like S3, Glue, Redshift Serverless, Cloudwatch, IAM and billing & Cost Management. I worked on this project to primarily build my portfolio as an Analyst. 
 
