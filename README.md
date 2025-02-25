@@ -8,3 +8,5 @@ I used Python to load and clean the data initially on Google Colab and then move
 
 
 https://drive.google.com/drive/folders/1BknntyIu3Upo52jfStgmjO7-uhGkde4u?usp=sharing
+
+![image](https://github.com/user-attachments/assets/bbb74039-bf1b-4abd-ae84-53609cebaf44)
